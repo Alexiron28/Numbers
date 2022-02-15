@@ -1,0 +1,14 @@
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\bin\Release\net6.0\ConsoleNumeros.exe
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\bin\Release\net6.0\ConsoleNumeros.deps.json
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\bin\Release\net6.0\ConsoleNumeros.runtimeconfig.json
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\bin\Release\net6.0\ConsoleNumeros.dll
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\bin\Release\net6.0\ref\ConsoleNumeros.dll
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\bin\Release\net6.0\ConsoleNumeros.pdb
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\obj\Release\net6.0\ConsoleNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\obj\Release\net6.0\ConsoleNumeros.AssemblyInfoInputs.cache
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\obj\Release\net6.0\ConsoleNumeros.AssemblyInfo.cs
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\obj\Release\net6.0\ConsoleNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\obj\Release\net6.0\ConsoleNumeros.dll
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\obj\Release\net6.0\ref\ConsoleNumeros.dll
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\obj\Release\net6.0\ConsoleNumeros.pdb
+C:\Users\Trabajo\source\repos\ConsoleNumeros\ConsoleNumeros\obj\Release\net6.0\ConsoleNumeros.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Trabajo\Documents\ConsoleNumeros.exe
+C:\Users\Trabajo\Documents\ConsoleNumeros.dll
+C:\Users\Trabajo\Documents\ConsoleNumeros.deps.json
+C:\Users\Trabajo\Documents\ConsoleNumeros.runtimeconfig.json
+C:\Users\Trabajo\Documents\ConsoleNumeros.pdb
